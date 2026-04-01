@@ -8,11 +8,11 @@ wheels/
 
 # Virtual environments
 .venv/
+.env/
 
 # Django
 db.sqlite3
 staticfiles/
-.env
 
 # OS
 .DS_Store
